@@ -13,7 +13,7 @@ This **This winter Graphic** is a fun, holiday themed visual that I have made us
 
 ---
 
-### This Current Implementation Includes:
+### ❄️ This Current Implementation Includes:
 -A twilight-colored background.
 
 -A string displaying "SANJANA's Carved Pumpkin!".
